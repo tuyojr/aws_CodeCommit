@@ -18,3 +18,5 @@ In this task, you use the AWS Management Console to create an AWS CodeCommit rep
     - For Repository name, enter `My-Repo`.
     - For Description enter `My first repository`.
     - Choose `Create`.
+
+![awsCodeCommit_task1](https://github.com/tuyojr/aws_CodeCommit/blob/main/awsCodeCommit_task1.png)
