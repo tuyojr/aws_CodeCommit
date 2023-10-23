@@ -107,3 +107,5 @@ After you have pushed code to your AWS CodeCommit repository, you can view the c
 16. Choose your web browser’s refresh button to refresh the page.
 The two files that you added to your repository should be displayed.
 17. Choose the link for each file to view its contents.
+
+![awsCodeCommit_task3](https://github.com/tuyojr/aws_CodeCommit/blob/main/awsCodeCommit_task3.png)
